@@ -24,23 +24,7 @@ Shell-Scripting/
 
 ---
 
-## 📜 Script Catalog
 
-| Category     | Script Name             | Description                                | Path                           |
-|--------------|--------------------------|--------------------------------------------|--------------------------------|
-| Basics       | Hello World              | Print a simple hello message               | `basics/hello_world.sh`        |
-| Basics       | Variables and Loops      | Demonstrates variables and loops in Bash   | `basics/loops.sh`              |
-| System       | Disk Usage Checker       | Checks disk space and alerts               | `system/disk_usage.sh`         |
-| System       | Memory Monitor           | Displays memory usage info                 | `system/memory_monitor.sh`     |
-| Network      | Ping Sweep               | Checks which IPs are online in subnet      | `network/ping_sweep.sh`        |
-| Network      | Port Scanner             | Basic TCP port scanner                     | `network/port_scanner.sh`      |
-| Automation   | Backup Script            | Creates a backup of a directory            | `automation/backup.sh`         |
-| DevOps       | Deploy App               | Automates deployment using rsync/ssh       | `devops/deploy_app.sh`         |
-| DevOps       | Log Archiver             | Archives logs older than X days            | `devops/archive_logs.sh`       |
-
-> _Descriptions are placeholders — update them as per your actual script logic._
-
----
 
 ## 🚀 Getting Started
 
