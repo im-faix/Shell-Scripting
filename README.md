@@ -67,17 +67,6 @@ A workflow is set up in `.github/workflows/lint.yml` to run shellcheck automatic
 
 ---
 
-## 📸 Previews / Demos
-
-> Add screenshots or terminal outputs below to showcase your scripts.
-
-```
-$ ./system/memory_monitor.sh
-Memory Usage: 45%
-Swap Usage: 3%
-```
-
----
 
 ## 🧠 Topics Covered
 
